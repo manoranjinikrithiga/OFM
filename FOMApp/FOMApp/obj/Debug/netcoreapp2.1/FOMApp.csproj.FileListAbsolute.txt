@@ -1,0 +1,3 @@
+C:\Users\vmadmin123\source\repos\FOMApp\FOMApp\obj\Debug\netcoreapp2.1\FOMApp.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin123\source\repos\FOMApp\FOMApp\obj\Debug\netcoreapp2.1\FOMApp.AssemblyInfoInputs.cache
+C:\Users\vmadmin123\source\repos\FOMApp\FOMApp\obj\Debug\netcoreapp2.1\FOMApp.AssemblyInfo.cs
